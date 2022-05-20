@@ -9,11 +9,11 @@ KaseiCoin is a fungible ERC-20 token that allows users to send ether in exchange
 * [openzeppelin](https://github.com/OpenZeppelin) - smart contract libary. 
 
 ## Screenshots
-![Metamask Transaction](/images/Deployed Metamask.png)
-![Ganache Transaction](/images/Ganache Transaction.png)
-![KaseiCoin Complied](/images/KaseiCoin Complied.png)
-![KaseiCoinCrowdsaleDeployer complied](/images/KaseiCoinCrowdsaleDeployer complied.png)
-![Wei Raised](/images/Wei Raised.png)
+![Metamask Transaction](/images/Deployed-Metamask.png)
+![Ganache Transaction](/images/Ganache-Transaction.png)
+![KaseiCoin Complied](/images/KaseiCoin-Complied.png)
+![KaseiCoinCrowdsaleDeployer complied](/images/KaseiCoinCrowdsaleDeployer-complied.png)
+![Wei Raised](/images/Wei-Raised.png)
 
 
 ## Contributors
