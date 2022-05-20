@@ -7,7 +7,7 @@ KaseiCoin is a fungible ERC-20 token that allows users to send ether in exchange
 - [solidity](https://docs.soliditylang.org/) - programming language for implementing smart contracts.
 - [openzeppelin](https://github.com/OpenZeppelin) - smart contract libary.
 
-## Screenshots
+## Evaluation Evidence
 
 ![KaseiCoin Complied](/images/KaseiCoin-Compiled.png)
 ![KaseiCoinCrowdsaleDeployer complied](/images/KaseiCoinCrowdsaleDeployer-complied.png)
