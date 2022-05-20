@@ -11,7 +11,7 @@ KaseiCoin is a fungible ERC-20 token that allows users to send ether in exchange
 ## Screenshots
 ![Metamask Transaction](/images/Deployed-Metamask.png)
 ![Ganache Transaction](/images/Ganache-Transaction.png)
-![KaseiCoin Complied](/images/KaseiCoin-Complied.png)
+![KaseiCoin Complied](/images/KaseiCoin-Compiled.png)
 ![KaseiCoinCrowdsaleDeployer complied](/images/KaseiCoinCrowdsaleDeployer-complied.png)
 ![Wei Raised](/images/Wei-Raised.png)
 
